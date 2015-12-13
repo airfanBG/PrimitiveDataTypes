@@ -1,0 +1,6 @@
+D:\programming\2.primitive data types\Intro-Programming-Homework\comparingFloats\bin\Debug\comparingFloats.exe.config
+D:\programming\2.primitive data types\Intro-Programming-Homework\comparingFloats\bin\Debug\comparingFloats.exe
+D:\programming\2.primitive data types\Intro-Programming-Homework\comparingFloats\bin\Debug\comparingFloats.pdb
+D:\programming\2.primitive data types\Intro-Programming-Homework\comparingFloats\obj\Debug\comparingFloats.exe
+D:\programming\2.primitive data types\Intro-Programming-Homework\comparingFloats\obj\Debug\comparingFloats.pdb
+D:\programming\2.primitive data types\Intro-Programming-Homework\comparingFloats\obj\Debug\comparingFloats.csprojResolveAssemblyReference.cache

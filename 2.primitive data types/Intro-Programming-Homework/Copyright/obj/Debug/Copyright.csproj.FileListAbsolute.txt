@@ -1,0 +1,6 @@
+D:\programming\2.primitive data types\Intro-Programming-Homework\Copyright\bin\Debug\Copyright.exe.config
+D:\programming\2.primitive data types\Intro-Programming-Homework\Copyright\bin\Debug\Copyright.exe
+D:\programming\2.primitive data types\Intro-Programming-Homework\Copyright\bin\Debug\Copyright.pdb
+D:\programming\2.primitive data types\Intro-Programming-Homework\Copyright\obj\Debug\Copyright.exe
+D:\programming\2.primitive data types\Intro-Programming-Homework\Copyright\obj\Debug\Copyright.pdb
+D:\programming\2.primitive data types\Intro-Programming-Homework\Copyright\obj\Debug\Copyright.csprojResolveAssemblyReference.cache

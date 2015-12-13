@@ -1,0 +1,6 @@
+D:\programming\2.primitive data types\Intro-Programming-Homework\BankAccount\bin\Debug\BankAccount.exe.config
+D:\programming\2.primitive data types\Intro-Programming-Homework\BankAccount\obj\Debug\BankAccount.csprojResolveAssemblyReference.cache
+D:\programming\2.primitive data types\Intro-Programming-Homework\BankAccount\bin\Debug\BankAccount.exe
+D:\programming\2.primitive data types\Intro-Programming-Homework\BankAccount\bin\Debug\BankAccount.pdb
+D:\programming\2.primitive data types\Intro-Programming-Homework\BankAccount\obj\Debug\BankAccount.exe
+D:\programming\2.primitive data types\Intro-Programming-Homework\BankAccount\obj\Debug\BankAccount.pdb
